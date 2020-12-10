@@ -1,0 +1,16 @@
+.likeCounter {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.likeCounter button {
+    width: 30px;
+    height: 30px;
+    margin: auto 0;
+    text-align: center;
+}
+
+.likeCounter p {
+    margin: auto 10px;
+}
